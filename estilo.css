@@ -24,6 +24,7 @@ body {
     background-image: url(imagem/cafe-1750.webp);
     background-repeat: no-repeat;
     background-size: cover;  
+    overflow: auto;
 }
 
 
