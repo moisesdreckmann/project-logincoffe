@@ -19,12 +19,12 @@
 }
 
 body {
-    height: 100vh;
+    max-height: 100vh;
     width: 100vw;
+    background-color: var(--login);
     background-image: url(imagem/cafe-1750.webp);
     background-repeat: no-repeat;
-    background-size: cover;  
-    overflow: auto;
+    background-size: cover;
 }
 
 
