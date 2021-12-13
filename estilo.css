@@ -21,6 +21,7 @@
 body {
     height: 98vh;
     width: 98vw;
+    background-color: var(--login);
     background-image: url(imagem/cafe-1750-1.webp);
     background-repeat: no-repeat;
     background-size: cover;
