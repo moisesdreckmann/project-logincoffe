@@ -24,6 +24,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
+    padding-bottom: 50px;
 }
 
 
@@ -80,6 +81,7 @@ h1 {
     height: 31px;
     width: 197px;
     position: relative;
+
 }
 
 .form__login__img {
