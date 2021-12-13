@@ -19,31 +19,19 @@
 }
 
 body {
-    max-height: 100vh;
-    width: 100vw;
-    background-color: var(--login);
-    background-image: url(imagem/cafe-1750.webp);
+    height: 98vh;
+    width: 98vw;
+    background-image: url(imagem/cafe-1750-1.webp);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: top center;
+
 }
 
-
-
-@media screen and (min-width: 950px) and (max-width: 1050px) {
-    body {
-        background-image: url(imagem/cafe-1024.webp);
-    }
-}
-
-@media screen and (min-width: 871px) and (max-width: 949px) {
-    body {
-        background-image: url(imagem/cafe-800.webp);
-    }
-}
 
 @media screen and (min-width: 481px) and (max-width: 870px) {
     body {
-        background-image: url(imagem/cafe-600.webp);
+        background-image: url(imagem/cafe-1750.webp);
         background-position: top left;
     }
 }
