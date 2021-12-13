@@ -26,6 +26,7 @@ body {
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
+    padding: 60px 0;
 }
 
 
@@ -60,7 +61,7 @@ body {
 .wrapper-form {
     width: 250px;
     height: 380px;
-    margin: 100px auto 0px auto;
+    margin: auto;
     text-align: center;
     padding: 25px;
     background-color: rgba(245, 222, 179, 0);
