@@ -11,6 +11,10 @@
     box-sizing: border-box;
 }
 
+html {
+    -webkit-tap-highlight-color: transparent;
+}
+
 :root {
     --button: rgb(240, 240, 242);
     --login: rgb(202, 149, 108);
