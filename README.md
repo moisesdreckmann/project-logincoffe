@@ -11,3 +11,4 @@ Projeto desenvolvido com a utilização de forms e media queries.
 * Variaveis em CSS
 * Background-Image
 * Media queries e responsividade
+* Arquitetura BEM
